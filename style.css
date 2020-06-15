@@ -1,0 +1,11 @@
+    .flex{
+        display:grid;
+        grid-template-columns: repeat(4, 1fr);
+
+    }
+    .grid {
+        
+        
+        width: 400px;
+        height: 300px;
+      } 
